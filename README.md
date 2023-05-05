@@ -1,2 +1,2 @@
 # Montana-Prospecting-Demo
-Web map demp
+Web map demo
